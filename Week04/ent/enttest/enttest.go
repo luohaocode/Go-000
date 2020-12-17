@@ -4,9 +4,9 @@ package enttest
 
 import (
 	"context"
-	"demo/ent"
+	"github.com/luohaocode/Go-000/Week04/ent"
 	// required by schema hooks.
-	_ "demo/ent/runtime"
+	_ "github.com/luohaocode/Go-000/Week04/ent/runtime"
 
 	"github.com/facebook/ent/dialect/sql/schema"
 )

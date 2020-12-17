@@ -4,10 +4,10 @@ package ent
 
 import (
 	"context"
-	"demo/ent/predicate"
-	"demo/ent/user"
 	"errors"
 	"fmt"
+	"github.com/luohaocode/Go-000/Week04/ent/predicate"
+	"github.com/luohaocode/Go-000/Week04/ent/user"
 	"math"
 
 	"github.com/facebook/ent/dialect/sql"

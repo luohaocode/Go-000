@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"log"
 
-	"demo/ent/migrate"
+	"github.com/luohaocode/Go-000/Week04/ent/migrate"
 
-	"demo/ent/user"
+	"github.com/luohaocode/Go-000/Week04/ent/user"
 
 	"github.com/facebook/ent/dialect"
 	"github.com/facebook/ent/dialect/sql"

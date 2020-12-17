@@ -3,8 +3,8 @@
 package ent
 
 import (
-	"demo/ent/user"
 	"fmt"
+	"github.com/luohaocode/Go-000/Week04/ent/user"
 	"strings"
 
 	"github.com/facebook/ent/dialect/sql"

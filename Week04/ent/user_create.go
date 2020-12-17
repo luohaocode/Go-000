@@ -4,9 +4,9 @@ package ent
 
 import (
 	"context"
-	"demo/ent/user"
 	"errors"
 	"fmt"
+	"github.com/luohaocode/Go-000/Week04/ent/user"
 
 	"github.com/facebook/ent/dialect/sql/sqlgraph"
 	"github.com/facebook/ent/schema/field"

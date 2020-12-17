@@ -3,8 +3,8 @@
 package ent
 
 import (
-	"demo/ent/schema"
-	"demo/ent/user"
+	"github.com/luohaocode/Go-000/Week04/ent/schema"
+	"github.com/luohaocode/Go-000/Week04/ent/user"
 )
 
 // The init function reads all schema descriptors with runtime code

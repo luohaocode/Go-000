@@ -4,8 +4,8 @@ package hook
 
 import (
 	"context"
-	"demo/ent"
 	"fmt"
+	"github.com/luohaocode/Go-000/Week04/ent"
 )
 
 // The UserFunc type is an adapter to allow the use of ordinary

@@ -2,10 +2,10 @@ package service
 
 import (
 	"context"
-	v1 "demo/api/demo/v1"
-	"demo/internal/biz"
 	"fmt"
+	v1 "github.com/luohaocode/Go-000/Week04/api/demo/v1"
 	"github.com/luohaocode/Go-000/Week04/ent"
+	"github.com/luohaocode/Go-000/Week04/internal/biz"
 )
 
 type RecordUserService struct {

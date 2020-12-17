@@ -2,9 +2,9 @@ package data
 
 import (
 	"context"
-	"demo/internal/biz"
 	"fmt"
 	"github.com/luohaocode/Go-000/Week04/ent"
+	"github.com/luohaocode/Go-000/Week04/internal/biz"
 	"log"
 )
 

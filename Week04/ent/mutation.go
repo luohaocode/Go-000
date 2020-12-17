@@ -4,9 +4,9 @@ package ent
 
 import (
 	"context"
-	"demo/ent/predicate"
-	"demo/ent/user"
 	"fmt"
+	"github.com/luohaocode/Go-000/Week04/ent/predicate"
+	"github.com/luohaocode/Go-000/Week04/ent/user"
 	"sync"
 
 	"github.com/facebook/ent"
