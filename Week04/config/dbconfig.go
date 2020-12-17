@@ -4,6 +4,8 @@ import (
 	"fmt"
 	"github.com/luohaocode/Go-000/Week04/ent"
 	"log"
+
+	_ "github.com/jinzhu/gorm/dialects/mysql"
 )
 
 type Option func(db *dbOptions) error
