@@ -1,0 +1,13 @@
+syntax = "proto3";
+package config.demo.v1;
+
+import "google/protobuf/wrappers.proto";
+option go_package = ".;config";
+
+message db_config {
+  string address = 1;
+  string name = 2;
+  string username = 3;
+  string password = 4;
+  google.protobuf.Int64Value timeout =5;
+}
