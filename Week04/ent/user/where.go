@@ -3,7 +3,7 @@
 package user
 
 import (
-	"demo/ent/predicate"
+	"github.com/luohaocode/Go-000/Week04/ent/predicate"
 
 	"github.com/facebook/ent/dialect/sql"
 )
